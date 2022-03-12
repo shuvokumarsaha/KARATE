@@ -211,7 +211,7 @@ h5{
 }   
 .foo{
     padding: 10px;
-margin: auto;
+     margin: auto;
     color: firebrick;
     font-size: 18px;
     width: 300px;
